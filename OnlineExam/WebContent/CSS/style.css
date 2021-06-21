@@ -1,0 +1,69 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    	
+}
+
+
+.header{
+    height: 90vh;
+    width: 100%;
+
+    color: white;
+
+    background: linear-gradient(
+        to right, rgb(75, 43, 255),
+         rgba(255, 64, 64, 0.3)
+         ), 
+         url(https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-size: cover;
+}
+.h100{
+    height:100%;
+    width:100%;
+
+}
+
+.lca{
+
+    background-color: #000000;
+    opacity: .7;
+    border-radius: 3rem !important;
+    border-style: outset;
+    border-left-color: rgba(81, 21, 221, 0.664);
+    border-right-color: rgba(236, 40, 236, 0.623);
+    border-top-color: rgba(98, 26, 180, 0.678);
+    border-bottom-color: rgba(235, 83, 235, 0.705);
+    border-width: 3px;
+}
+
+.link{
+    color: white
+}
+.message{
+
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+.myicon{
+
+    font-size: 30px;
+    padding: 20px;
+    
+}
+.contact{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+
+}
+.purple{
+	
+	color: #4a148c;
+}
+.deep-pink{
+	color: #FF1493;
+}
+.admn{
+	color: #311b92;
+}
+.qz{
+	color: #dd2c00;
+}
