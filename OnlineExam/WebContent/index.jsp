@@ -13,7 +13,9 @@
             box-sizing: border-box; 
         }  
         
-         /* Set a style for the buttons*/  
+        
+ /* Set a style for the buttons*/ 
+  /* Set a style for the buttons*/  
         button {  
             background-image: linear-gradient(to right, #901458 15%, #4169E1 100%);
             color:white;  
